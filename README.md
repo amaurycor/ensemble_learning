@@ -1,7 +1,8 @@
 # ensemble_learning
 Ensemble learning project - Airbnb price prediction NYC 2019
 Airbnb Price Prediction Using Ensemble Algorithms - README
-Objective
+
+Objective:
 The objective of this project is to predict the optimal price for Airbnb listings using ensemble learning models. We aim to build a pricing model by taking into account the attributes of the listing.
 
 Methodology
