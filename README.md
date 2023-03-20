@@ -29,5 +29,15 @@ We removed outliers using the interquartile range method for the following varia
 ### Exploratory Analysis: ###
 We conducted an exploratory analysis to gain insight from our data. For a question of space, the exploratory analysis will only be available by accessing the notebook Ensemble_Project.
 
+
+### Modeling: ###
+We used the following algorithms : Decision Tree, Random Forest, Extremely Randomized Trees, AdaBoost, XGBoost, Gradient Boosting and finally, light gradient-boosting
+
+### Evaluation : ###
+For evaluating the performance of each method, we defined several metrics : R2 (goodness of fit), Mean Squared error (MSE),, Root Mean Squared error (RMSE) and Mean absolute error (MAE).
+
+### Application: ###
+We developed a prototype application available for Airbnb hosts enabling them to predict the prices of their listing. We made the application using the library Streamlit. Each user can enter the features of their airbnb and it will return the price per night. The python file app.py contains the code to develop the application 
+
 ### Conclusion: ###
 Using ensemble learning algorithms, we built a pricing model for Airbnb listings that takes into account the attributes of the listing. Our model is based on a supervised regression approach, and we evaluated our models using various performance metrics. This project is helpful for Airbnb hosts who want to determine the optimal price for their listings.
