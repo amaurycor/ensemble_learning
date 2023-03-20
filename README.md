@@ -1,4 +1,4 @@
-# Ensemble learning project - Airbnb price prediction NYC 2019**
+# Ensemble learning project - Airbnb price prediction NYC 2019 #
 
 ## Airbnb Price Prediction Using Ensemble Algorithms - README ##
 
